@@ -1,2 +1,3 @@
 # FlowWatch
-This repo is a documentation of the Arduino code used for my GCSP makeathon project: FlowWatch (written for the Arduino Uno).
+This repository is a documentation of the Arduino sketch used for my GCSP makeathon project (2025): FlowWatch.
+It is written for the Arduino Uno.
